@@ -1,0 +1,22 @@
+{
+  "name": "plasma-tx-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tak1827/plasma-tx-flow.git"
+  },
+  "author": "tak1827",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tak1827/plasma-tx-flow/issues"
+  },
+  "homepage": "https://github.com/tak1827/plasma-tx-flow#readme",
+  "dependencies": {
+    "ethereumjs-util": "^6.0.0"
+  }
+}
