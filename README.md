@@ -15,7 +15,7 @@ If I puck pack all process into flow.js, it will hard to read. So I divide into 
 ## Simple Withdrawal
 Please checkout 'simple-withdrawal' branch and refer to following blog post for further information.<br>
 
-Blog Post: [Express Plasma MVP as Javascript - Simple Withdrawal]()
+Blog Post: [Express Plasma MVP as Javascript - Simple Withdrawal](https://medium.com/@t.tak/express-plasma-mvp-as-javascript-simple-withdrawal-53f59bcced3)
 <br>
 
 ![alt Simple Withdrawal img inside of white paper](img/simple-withdrawal.png)<br>
